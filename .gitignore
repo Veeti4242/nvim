@@ -1,0 +1,6 @@
+# Local recovery copies, not the shared configuration.
+/backup/
+/lazy-lock.backup.json
+*.swp
+*.swo
+*~
